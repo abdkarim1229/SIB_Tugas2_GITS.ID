@@ -34,7 +34,7 @@ fun main() {
         angka1 = readLine()!!.toFloat()
         print("Masukkan Angka 2 : ")
         angka2 = readLine()!!.toFloat()
-        print("Hasil Pembakian Adalah : " + angka1.div(angka2))
+        print("Hasil Pembagian Adalah : " + angka1.div(angka2))
     } else {
         print("Pilih Operasi yang Tersedia")
     }
